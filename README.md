@@ -4,6 +4,7 @@ This repository contains the Python source code used for the spectral geometric 
 
 ## Contents
 * `tricho_ring_figures.py`: The main script that performs vector analysis on hyperspectral data to generate the geometric trajectory plots (Figure 9) and spectral residual decoding (Figure 10).
+*`average_data.xlsx`: The processed input dataset containing mean spectral profiles extracted from the Regions of Interest (ROIs).
 
 ## Note on Machine Learning
 The machine learning classification (Neural Boosted, Random Forest, etc.) described in the manuscript was performed using **JMP Pro 17** (SAS Institute). As JMP is a GUI-based software, no script files are available for that portion of the analysis. Full statistical details are provided in the manuscript Methods section.
